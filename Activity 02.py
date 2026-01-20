@@ -1,4 +1,6 @@
-nome=input('Qual é seu nome?')
+#Input significa leia
+
+nome=input('Qual é seu nome?') #O símbolo de = significa que a variável (espaço na memória do pc para guardar informação) recebe algo, ex: x=y (x recebe y).
 print('Olá',nome,'.','Prazer em te conhecer!')
 
 dia=input('Qual é o dia do seu nascimento?')
