@@ -1,5 +1,5 @@
-n3=float(input('Qual o valor da sua primeira nota?'))
-n4=float(input('Qual o valor da sua segunda nota nota?'))
-m=(n3+n4)/2
+#8
+p=float(input('Qual o preço do produto?'))
+np=p-(p*0,05)
 
-print('A média das suas notas é {:.2f}.'.format(m))
+print('O preço do produto com 5% de desconto é {:2f}.'.format(np))
